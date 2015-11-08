@@ -1,0 +1,23 @@
+name: JessicaMeadows
+favicon: null
+layout_spectrum: 0.5914437856990844
+typography_spectrum: 0.8588865876663476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8760889207478613
+  lightness: 0.04568352224305272
+  saturation: 0.41555143776349723
+  rhythmicContrast: 0.5544962987769395
+purpose: []
